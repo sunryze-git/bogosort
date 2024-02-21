@@ -1,7 +1,10 @@
-# BOGOSORT
-Some random junk I decided to make after one of my friends introduced me to this both extremely fast and extremely slow sorting algorithm.
+# BOGOSORT Demonstration of Probability
+Some random junk I decided to make after one of my friends introduced me to this both extremely fast and extremely slow sorting algorithm. 
 
 ChatGPT did assist in development.
+
+# What is Bogosort?
+Bogosort, Also known as stupidsort, is a method of sorting an array of values by a certain condition. In this program, it sorts it from least to greatest. The method in which it sorts is by continuously randomizing the layout of the array until it meets the condition. In this particular case, it is randomizing a list of 10 items, which means it is a 1 in 10<sup>2</sup>% chance of hitting the least to greatest condition **each operation.**
 
 # How to run?
 You need .NET 8.0 installed. I did not provide AOT release binaries; they were absolutely massive and included tons of junk files with them. I provided Release-published binaries for macOS ARM64 (Apple Silicon), and for Windows x64.
