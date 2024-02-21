@@ -14,5 +14,5 @@ BOGOSORT is a good utility to test a general operations performance of a process
 | CPU         | Host System  | Operations/s  | OS |
 | :---        | :---         |          ---: | :--- |
 | Apple M1    | Apple MacBook Air (2020) |12,500,000| macOS Sonoma 14.3.1 |
-| Apple M2    | Apple MacBook Pro (2021) |14,700,000| macOS Sonoma 14.1 |
+| Apple M2    | Apple MacBook Pro (2022) |14,700,000| macOS Sonoma 14.1 |
 | Intel Core i7-8700| Lenovo ThinkCentre (2018) |8,000,000| Windows 10 22H2 |
