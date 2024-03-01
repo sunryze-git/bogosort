@@ -6,7 +6,7 @@ ChatGPT did assist in development.
 ---
 
 ## What is Bogosort?
-Bogosort, Also known as stupidsort, is a method of sorting an array of values by a certain condition. In this program, it sorts it from least to greatest. The method in which it sorts is by continuously randomizing the layout of the array until it meets the condition. In this particular case, it is randomizing a list of 10 items, which means it is a 1 in 10<sup>10</sup>% chance of hitting the least to greatest condition **each operation.**
+Bogosort, Also known as stupidsort, is a method of sorting an array of values by a certain condition. This program sorts the array numerically by least to greatest. Stupid Sort will randomize the positioning of items within the array, until it reaches the least to greatest order. The probability depends on size of array, meaning it is a 1 in x<sup>x</sup>% chance of hitting the least to greatest condition **each operation**, where ``x`` equals the number of items in your array.
 
 ---
 
