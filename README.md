@@ -18,7 +18,7 @@ macOS users will need to open Terminal and do ``chmod +x bogosort-osx-arm64`` to
 ---
 
 ## Performance Tests
-BOGOSORT is a good utility to test a general operations performance of a processor.
+BOGOSORT is a good utility to test a general operations performance of a processor. This application currently only uses a single thread for calculation. You can estimate your full Ops/sec by multiplying the operations/s by the number of threads your CPU has.
 
 | CPU         | Host System  | Operations/s  | OS |
 | :---        | :---         |          ---: | :--- |
